@@ -1,0 +1,14 @@
+O que você sabe fazer do que está sendo apresentado?
+sinceramente se apaga um metodo e povavel que fice assim ate que eu utilize ele novamente e presisa dele
+
+Como vocês dividiram/fizeram a atividade?
+codigo do THIAGO DE SOUZA TELESCERO como base
+
+O que você aprendeu e o que ainda tem dificuldade?
+sempre testa codigo "finalizado" do amigo, e por ser usando em outro trabalho apreti um pouco de como junda java com banco de dados
+
+Quanto tempo você gastou no total na atividade?
+umas 3hs a 3hs 30mins
+
+Informações
+programacao em java(eclipse)
